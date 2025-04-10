@@ -51,7 +51,7 @@ To set up an LDAP 389-Directory Server using Podman and implement a UI-based LDA
 ## 3. Approach 1: Details
 ### 3.1. Architecture Diagram
 
-![image1](architecture_diagram.png)
+![image1](image.png)
  
 
 
